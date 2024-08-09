@@ -1,0 +1,14 @@
+SMART QUESTION: PROYECTO DE PREDICCIÓN DE CAPACIDAD TÉCNICA PARA LAS ZONAS WIFI DE LA CIUDAD DE CALI EN EL ÁREA URBANA
+
+
+¿Qué porcentaje de variación tendrá el 2025 en relación al 2024 en  la cantidad de usuarios que se conectan a las zonas WiFi de Cali en la zona urbana?
+
+Semestralmente el Departamento Administrativo de las Tecnologías de la Información de la Alcaldía de Santiago de Cali reporta el número de personas que accedieron a la red de internet en las zonas WiFi de la ciudad de Cali en su área urbana. Esta información se podría utilizar para prever las necesidades técnicas futuras y así mantener la capacidad operativa óptima para la prestación de un buen servicio.
+
+El proyecto puede ser resuelto utilizando métodos de Ciencia de Datos e IA ya que la entidad cuenta con los datos de conectividad desagregados por día, zona de conexión, número de conexiones y cantidad de datos usados (en Kb). Se reconoce que primero se deben agotar las etapas descriptiva y diagnóstica para poder atender el problema predictivo que plantea la pregunta SMART aquí sugerida.
+
+S - La pregunta se enmarca en el estudio únicamente en las Zonas WiFi públicas de Cali en su área urbana.
+M - La entidad tiene la capacidad de medición de las conexiones a dichas zonas con su respectivo consumo.
+A - La pregunta es accionable ya que la variable conexiones y consumo nos permite tomar decisiones al respecto de la necesidad técnica requerida para atender una demanda futura.
+R
+T - La pregunta tiene una marca temporal de predicción para el 2025. Según las necesidad se puede hacer el ajuste para predicciones semestrales con lo que la predicción sería para el primer semestre de 2025. 
